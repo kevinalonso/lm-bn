@@ -3175,6 +3175,87 @@ object {
 	body.customize-partial-edit-shortcuts-shown .site-header .site-title {
 		padding-left: 0;
 	}
+	
+	/***MY CSS*******/
+	
+	.lastname-marco, .number-marco, .lastname-nicolas, .number-nicolas{
+		color:white;
+	}
+	
+	.marco-title-home, .nicolas-title-home{
+		font-size:130%
+	}
+	
+	#start-welcome,#finish-welcome{
+		visibility: hidden;
+	}
+	
+	.back-separator-roller {
+		background-image: url(http://www.lm-bn.fr/wp-content/uploads/2016/02/fond-rouleau.png);
+		width: 65%;
+		height: 8px;
+		margin-top: -50%;
+		position: absolute;
+		left: 11%;
+	}
+	
+	.roller {
+		background-image: url(http://www.lm-bn.fr/wp-content/uploads/2016/02/paint.png);
+		height: 40px;
+		margin-top: -50%;
+		position: absolute;
+		width: 6%;
+		left: 76.5%;
+		background-size: 40px;
+		background-repeat: no-repeat;
+	}
+	
+	.nicolas-title-home{
+		margin-top:-58%;
+	}
+	
+	.back-separator-saw {
+		background-image: url(http://www.lm-bn.fr/wp-content/uploads/2016/02/fond-scie.png);
+		width: 65%;
+		height: 8px;
+		margin-top: -51%;
+		position: absolute;
+		left: 11%;
+	}
+	
+	.saw {
+		background-image: url(http://www.lm-bn.fr/wp-content/uploads/2016/02/saw.png);
+		height: 40px;
+		margin-top: -55.5%;
+		/* margin-top: -3%; */
+		position: absolute;
+		width: 6%;
+		left: 76%;
+		/* left: 98%; */
+		background-size: 40px;
+		background-repeat: no-repeat;
+	}
+	
+	.end-welcome {
+		display: block;
+		margin-top: -40%;
+		margin-left: 8%;
+		width: 100%;
+		font-size: 107%;
+	}
+	
+	.text-footer-link{
+		visibility:hidden;
+	}
+	
+	.site-footer{
+		background:#669933/*#f9f9f9*/;
+	}
+	
+	.adress-to-marco,.adress-to-nicolas{
+		color:white;
+	}
+	/***END MY CSS***/
 }
 
 @media screen and (min-width: 30em) {
@@ -3304,6 +3385,14 @@ object {
 	.gallery-columns-4 .gallery-item {
 		max-width: 25%;
 	}
+	
+	/***MY CSS*******/
+	
+	.lastname-marco{
+		color:white;
+	}
+	
+	/***END MY CSS***/
 }
 
 @media screen and (min-width: 48em) {

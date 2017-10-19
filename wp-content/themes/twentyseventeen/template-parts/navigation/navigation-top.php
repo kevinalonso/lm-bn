@@ -14,7 +14,7 @@
 		<?php
 		echo twentyseventeen_get_svg( array( 'icon' => 'bars' ) );
 		echo twentyseventeen_get_svg( array( 'icon' => 'close' ) );
-		_e( 'Menu', 'twentyseventeen' );
+		_e( '', 'twentyseventeen' );
 		?>
 	</button>
 

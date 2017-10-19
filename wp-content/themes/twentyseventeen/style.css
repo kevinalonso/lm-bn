@@ -923,7 +923,7 @@ html[lang="th"] * {
 label {
 	color: #333;
 	display: block;
-	font-weight: 800;
+	/*font-weight: 800;*/
 	margin-bottom: 0.5em;
 }
 
@@ -1016,6 +1016,7 @@ input[type="submit"] {
 	text-shadow: none;
 	-webkit-transition: background 0.2s;
 	transition: background 0.2s;
+	width:100%;
 }
 
 input + button,
@@ -1901,7 +1902,7 @@ body:not(.has-header-image):not(.has-header-video) .custom-header-media {
 .page .panel-content .entry-title,
 .page-title,
 body.page:not(.twentyseventeen-front-page) .entry-title {
-	color: #222;
+	color: /*#222*/white;
 	font-size: 14px;
 	font-size: 0.875rem;
 	font-weight: 800;
@@ -3430,7 +3431,7 @@ object {
 	#site-generator {
 		text-align: center;
 		font-size:12px;
-		width:125%;
+		width:156%;
 		margin-left:-61%;
 		color: #555;
 		font-weight: bold;
@@ -3439,9 +3440,21 @@ object {
 	.adress-to-marco, .adress-home-marco, .city-adress-marco, .adress-to-nicolas, .adress-home-nicolas, .city-adress-nicolas {
 		color: white;
 	}
-	
-	
 	/*****END FOOTER*****/
+	
+	/****MENU SPACE BETWEEN ITEM*****/
+	#menu-item-27{
+		padding-right:134px;
+	}
+	
+	#menu-item-23{
+		padding-right:149px;
+	}
+	
+	#menu-item-24{
+		padding-right:107px;
+	}
+	
 	
 	/*END MY CSS*/
 

@@ -1,0 +1,121 @@
+@media only screen and (min-width: 300px) and (max-width: 799px) {
+
+	/*=================================Nav bar===================*/
+	#access{
+		margin-top: 30% !important;
+	}
+
+	#access ul {
+	 display: table;
+	 margin: 0 auto;
+	 background: inherit;
+	}
+
+	#access li{
+		float: none;
+		position: relative;
+	}
+
+	.home-icon {
+		display: none !important;
+	}
+
+	.text-home-icon {
+		display: block;
+		font-size: 12px;
+		font-weight: normal;
+	}
+
+	#menu-item-27{
+		display: none;
+	}
+	/*.primary-nav {
+		display: none;
+	}
+	.primary-mobile-nav {
+		display: block;
+	}*/
+	
+	#menu-item-205{
+		left:0%;
+	}
+
+	
+
+	/*=================================Home Page=================*/
+	#finish-welcome, #start-welcome{
+		visibility: hidden;
+	}
+
+	.marco-title-home{
+		margin-left: 0% !important;
+		margin-top: -12% !important;
+	}
+
+	.marco{
+		margin-left: 1%;
+	}
+
+	.back-separator-roller, .back-separator-saw{
+		width: 80%;
+	}
+
+	.roller{
+		width: 20%;
+		left: 85%;
+	}
+
+	.nicolas-title-home{
+		margin-top: -30% !important;
+		margin-left: 0% !important;
+	}
+
+	.nicolas{
+		margin-left: 1%;
+		margin-top: -15%;
+	}
+
+	.saw{
+		margin-top: -3%;
+		width: 20%;
+		left: 85%;
+	}
+
+	#post-13{
+		height: 750px;
+	}
+
+	.end-welcome{
+		visibility: hidden;
+	}
+
+	.contact-marco{
+		margin-left: 7%;
+	}
+
+	.contact-nicolas{
+		margin-left: 47%/*7%*/;
+		margin-top: -13%/*8%*/;
+	}
+
+	.content-welcome{
+		margin-top: 20%;
+	}		.titre-site-div{		position: relative;		margin-left: 24% !important;	}
+
+
+	/*================================Prestation Page============*/
+	/*================================Photo Page=================*/
+	/*================================Contact Page===============*/
+	.text-contact-data{
+		margin-left: 0%;
+	}
+
+	input[type = text], input[type=email], input[type=number]{
+		width: 100%;
+	}
+
+	.msg-contact-data{
+		margin-top: 0%;
+		margin-left: 0%;
+	}
+}

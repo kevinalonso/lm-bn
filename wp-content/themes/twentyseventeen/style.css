@@ -3254,7 +3254,14 @@ object {
 	
 	.adress-to-marco,.adress-to-nicolas{
 		color:white;
+		text-align:center;
 	}
+	
+	#menu-item-27{
+		display:none;
+	}
+	
+	
 	/***END MY CSS***/
 }
 
@@ -3534,6 +3541,7 @@ object {
 	/****MENU SPACE BETWEEN ITEM*****/
 	#menu-item-27{
 		padding-right:134px;
+		display: inline-block;
 	}
 	
 	#menu-item-23{

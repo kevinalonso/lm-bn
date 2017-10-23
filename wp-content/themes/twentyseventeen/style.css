@@ -3399,6 +3399,35 @@ object {
 		color:white;
 	}
 	
+	.nicolas-title-home{
+		margin-top:-30%;
+	}
+	
+	.end-welcome{
+		margin-top:-25%;
+	}
+	
+	.back-separator-roller{
+	    margin-top: -27%;
+		margin-left: -5.5%;
+		width:76%;
+	}
+	
+	.roller{
+	    margin-top: -27%;
+		margin-left: 6%;
+	}
+	
+	.back-separator-saw{
+		margin-top: -27%;
+		margin-left: -4.5%;
+		width: 76%;
+	}
+	
+	.saw{
+		margin-top: -29%;
+		margin-left: 6%;
+	}
 	/***END MY CSS***/
 }
 
@@ -3452,6 +3481,7 @@ object {
 		position: relative;
 		margin-top: -20%;
 		width: 45%;
+		visibility: visible;
 	}
 	
 	.back-separator-roller {
@@ -3460,7 +3490,7 @@ object {
 		height: 8px;
 		margin-top: 0%;
 		position: relative;
-		left: 0%;
+		left: 5%;
 	}
 	
 	.roller {
@@ -3469,7 +3499,7 @@ object {
 		margin-top: -0.5%;
 		position: absolute;
 		width: 6%;
-		left: 64.8%;
+		margin-left: -9.1%;
 		background-size: 40px;
 		background-repeat: no-repeat;
 	}
@@ -3479,6 +3509,7 @@ object {
 		margin-left: 52%;
 		width: 45%;
 		margin-top: -20%;
+		visibility: visible;
 	}
 	
 	.nicolas {
@@ -3496,28 +3527,28 @@ object {
 	
 	.back-separator-saw {
 		background-image: url(http://www.lm-bn.fr/wp-content/uploads/2016/02/fond-scie.png);
-		width: 90%;
+		width: 46%;
 		height: 8px;
-		margin-top: 3%;
-		left: 1%;
+		margin-top: 0%;
+		margin-left:10.4%;
 	}
 	
 	.saw {
 		background-image: url(http://www.lm-bn.fr/wp-content/uploads/2016/02/saw.png);
 		height: 40px;
-		margin-top: -3.5%;
+		margin-top: -0.5%;
 		/* margin-top: -3%; */
 		/* position: absolute; */
 		width: 6%;
-		margin-left: 91%;
+		margin-left: -9%;
 		background-size: 40px;
 		background-repeat: no-repeat;
 	}
 	
 	.end-welcome {
 		display: block;
-		margin-top: 3%;
-		margin-left: 13%;
+		margin-top: 8%;
+		margin-left: 15%;
 		width: 100%;
 		font-size: 130%;
 	}
@@ -3535,6 +3566,7 @@ object {
 	
 	.adress-to-marco, .adress-home-marco, .city-adress-marco, .adress-to-nicolas, .adress-home-nicolas, .city-adress-nicolas {
 		color: white;
+		margin-left:-26%;
 	}
 	/*****END FOOTER*****/
 	

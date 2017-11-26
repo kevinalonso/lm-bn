@@ -16,7 +16,8 @@
 
 			<div class="adress-marco">
 
-			<label class="adress-to-marco">Marco LEHAY, 4 Impasse de la paillardière 53970 MONTIGNE-LE-BRILLANT</label>
+			<!-- 4 Impasse de la paillardière -->
+			<label class="adress-to-marco">Marco LEHAY, 53970 MONTIGNE-LE-BRILLANT</label>
 
 			<!--<label class="adress-home-marco"></label>
 
@@ -26,7 +27,8 @@
 
 		<div class="adress-nicolas">
 
-			<label class="adress-to-nicolas">Nicolas BODIN, La Beulotière 53410 LE-BOURGNEUF-LA-FÔRET</label>
+			<!-- La Beulotière -->
+			<label class="adress-to-nicolas">Nicolas BODIN, 53410 LE-BOURGNEUF-LA-FÔRET</label>
 
 			<!--<label class="adress-home-nicolas"></label>
 
